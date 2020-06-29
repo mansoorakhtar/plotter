@@ -2,7 +2,7 @@ Quick Start
 
 We will assume that Node JS is already installed on your system.
 
-Open command prompt, and cd to your project directory and run below command
+Clone Project to local, Open command prompt, and cd to your project directory and run below command
 
 npm update
 
