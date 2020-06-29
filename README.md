@@ -15,13 +15,13 @@
 Please check below example how to draw shape using plotter
 
 * Line
-    ```l 0 0 100 100```
+    - ```l 0 0 100 100```
 
 * Circle
-    ```c 100 100 20```
+    - ```c 100 100 20```
 
 * Rectangle
-    ```r 0 0 100 100```
+    - ```r 0 0 100 100```
 
 * Polygon
-    ```p 200,10 250,190 160,210```
+    - ```p 200,10 250,190 160,210```
